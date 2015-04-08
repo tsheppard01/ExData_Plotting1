@@ -1,3 +1,12 @@
+##Completed Assignment Notes
+To run the scripts you should download the data source and extract the 
+file "household_power_consumption.txt" into the same folder as the R scripts.
+The script "plot1.R", "plot2.R", "plot3.R" and "plot4.R" each load the script file "project1.R" 
+which contains a function to load and formats the data.  They then create the necessary plots and
+create a png file which contains the plot.  Note that in the png file the final 2 characters 
+of the legends are cut-off.
+
+
 ## Introduction
 
 This assignment uses data from
